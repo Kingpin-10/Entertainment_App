@@ -27,7 +27,7 @@ To get started with the Entertainment App, follow these steps:
 - Clone this repository to your local machine using
 
 ```
-## git clone --https://github.com/Sanket-k-Ghorpade/Entertainment_App.git
+## git clone --https://github.com/Kingpin-10/Entertainment_App.git
 ```
 
 - Install dependencies by running `npm install` in the project directory.
