@@ -55,6 +55,6 @@ Special thanks to the following resources and libraries that helped make this pr
 
 ## Contact: If you have any questions, suggestions, or feedback, please don't hesitate to reach out:
 
-- Email: sanket.k.g.9101@gmail.com
+- Email: sarvadamans@gmail.com
 
 Thank you for using the Entertainment App! Enjoy exploring and discovering your favorite entertainment content. 🎬🎵📺
